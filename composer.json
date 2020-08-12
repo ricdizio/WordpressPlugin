@@ -1,0 +1,15 @@
+{
+    "name": "ricar/ricdizio-plugin",
+    "description": "Plugin that was made for an interview",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Ricardo Di Zio",
+            "email": "ricardodizio@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
